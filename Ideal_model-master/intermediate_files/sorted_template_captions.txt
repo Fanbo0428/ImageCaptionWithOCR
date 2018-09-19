@@ -1,0 +1,376 @@
+000000.jpg : a street sign that says `` <UNK> <UNK> ''.
+000001.jpg : a close up of a street sign with a sky background with  `` <UNK> <UNK> " on background .
+000002.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000003.jpg : a street scene with a bus and a bus with  `` <UNK> <UNK> " on scene .
+000004.jpg : a little girl sitting in front of a suitcase with  `` <UNK> <UNK> " on front .
+000005.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000006.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000007.jpg : a plane flying in the sky over a city with  `` <UNK> <UNK> " on sky .
+000008.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000009.jpg : a street sign on the corner of a city street with  `` <UNK> <UNK> " on sign .
+000010.jpg : a stop sign in front of a tree with  `` <UNK> <UNK> " on sign .
+000011.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000012.jpg : a close up of a street sign with a sky background with  `` <UNK> <UNK> " on background .
+000013.jpg : a street sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000014.jpg : a group of people standing on a tennis court with  `` <UNK> <UNK> " on people .
+000015.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000016.jpg : a man holding a stop sign on a city street with  `` <UNK> <UNK> " on sign .
+000017.jpg : a group of people standing in front of a building with  `` <UNK> <UNK> " on people .
+000018.jpg : a parking building with a clock on the top of it with  `` <UNK> <UNK> " on top .
+000019.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000020.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000021.jpg : a street sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000022.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000023.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000024.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000025.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000026.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000027.jpg : a street sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000028.jpg : a street sign that says `` <UNK> <UNK> ''.
+000029.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000030.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000031.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000032.jpg : a stop sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000033.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000034.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000035.jpg : a group of people standing in front of a building with  `` <UNK> <UNK> " on people .
+000036.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000037.jpg : a stop sign on the side of the street with  `` <UNK> <UNK> " on sign .
+000038.jpg : a building with a sign that says `` <UNK> ''.
+000039.jpg : a man standing in front of a building with  `` <UNK> <UNK> " on front .
+000040.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000041.jpg : a man standing in front of a building with a bicycle with  `` <UNK> <UNK> " on front .
+000042.jpg : a group of people standing in front of a shown with  `` <UNK> <UNK> " on people .
+000043.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000044.jpg : a fire hydrant on the side of the street with  `` <UNK> <UNK> " on side .
+000045.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000046.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000047.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000048.jpg : a red and white sign on the side of a building with  `` <UNK> <UNK> " on sign .
+000049.jpg : a truck parked in front of a building with  `` <UNK> <UNK> " on front .
+000050.jpg : a group of people walking in front of a building with  `` <UNK> <UNK> " on people .
+000051.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000052.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000053.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000054.jpg : a stop sign in front of a building with  `` <UNK> <UNK> " on sign .
+000055.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000056.jpg : a truck parked in front of a building with  `` <UNK> <UNK> " on front .
+000057.jpg : a car is parked in front of a building with  `` <UNK> <UNK> " on front .
+000058.jpg : a building with a street sign on it with  `` <UNK> <UNK> " on sign .
+000059.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000060.jpg : a group of people walking down a street with umbrellas with  `` <UNK> <UNK> " on people .
+000061.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000062.jpg : a large building with a street sign on it with  `` <UNK> <UNK> " on sign .
+000063.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000064.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000065.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000066.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000067.jpg : a bike parked in front of a building with  `` <UNK> <UNK> " on front .
+000068.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000069.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000070.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000071.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000072.jpg : a building with a sign on the front of it with  `` <UNK> <UNK> " on sign .
+000073.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000074.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000075.jpg : a shown front of a building with many windows with  `` <UNK> <UNK> " on windows .
+000076.jpg : a street sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000077.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000078.jpg : a man standing in front of a building with a bicycle with  `` <UNK> <UNK> " on front .
+000079.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000080.jpg : a black and white photo of a building with a clock with  `` <UNK> <UNK> " on photo .
+000081.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000082.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000083.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000084.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000085.jpg : a truck parked in front of a building with  `` <UNK> <UNK> " on front .
+000086.jpg : a building with a fire hydrant on the side of it with  `` <UNK> <UNK> " on side .
+000087.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000088.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000089.jpg : a truck parked in a tall lot next to a building with  `` <UNK> <UNK> " on lot .
+000090.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000091.jpg : a group of people sitting at a table in a restaurant with  `` <UNK> <UNK> " on table .
+000092.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000093.jpg : a stop sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000094.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000095.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000096.jpg : a building with a lot of signs on it with  `` <UNK> <UNK> " on signs .
+000097.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000098.jpg : a car driving down a street next to a car with  `` <UNK> <UNK> " on car .
+000099.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000100.jpg : a man standing in front of a shown front with  `` <UNK> <UNK> " on front .
+000101.jpg : a city street filled with lots of traffic with  `` <UNK> <UNK> " on lots .
+000102.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000103.jpg : a stop sign in front of a building with  `` <UNK> <UNK> " on sign .
+000104.jpg : a parking building with a clock on the top of it with  `` <UNK> <UNK> " on top .
+000105.jpg : a man is standing in front of a building with  `` <UNK> <UNK> " on front .
+000106.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000107.jpg : a group of people standing in front of a bus with  `` <UNK> <UNK> " on people .
+000108.jpg : a street sign that says `` <UNK> <UNK> ''.
+000109.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000110.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000111.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000112.jpg : a truck driving down a street next to a building with  `` <UNK> <UNK> " on building .
+000113.jpg : a group of people standing in front of a building with  `` <UNK> <UNK> " on people .
+000114.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000115.jpg : a shown front of a building with a clock on it with  `` <UNK> <UNK> " on front .
+000116.jpg : a street corner with a street sign and a traffic light with  `` <UNK> <UNK> " on sign .
+000117.jpg : a man standing next to a parked bus with  `` <UNK> <UNK> " on man .
+000118.jpg : a city street scene with cars and buses with  `` <UNK> <UNK> " on scene .
+000119.jpg : a street scene with cars and a bus with  `` <UNK> <UNK> " on scene .
+000120.jpg : a street scene with cars and a bus with  `` <UNK> <UNK> " on scene .
+000121.jpg : a red fire hydrant sitting in the middle of a street with  `` <UNK> <UNK> " on middle .
+000122.jpg : a bicycle parked in front of a building with  `` <UNK> <UNK> " on front .
+000123.jpg : a group of cars parked in front of a building with  `` <UNK> <UNK> " on front .
+000124.jpg : a building with a street sign on it with  `` <UNK> <UNK> " on sign .
+000125.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000126.jpg : a city street with cars and cars on it with  `` <UNK> <UNK> " on city .
+000127.jpg : a truck parked in a tall lot next to a building with  `` <UNK> <UNK> " on lot .
+000128.jpg : a building with a street sign on it with  `` <UNK> <UNK> " on sign .
+000129.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000130.jpg : a man walking down a street in front of a building with  `` <UNK> <UNK> " on front .
+000131.jpg : a group of cars parked in a tall lot with  `` <UNK> <UNK> " on lot .
+000132.jpg : a red fire hydrant on the side of the street with  `` <UNK> <UNK> " on side .
+000133.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000134.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000135.jpg : a man riding a skateboard down a street with  `` <UNK> <UNK> " on man .
+000136.jpg : a building with a sign that says `` <UNK> ''.
+000137.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000138.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000139.jpg : a fire hydrant on the side of the street with  `` <UNK> <UNK> " on side .
+000140.jpg : a street sign that is in the middle of a street with  `` <UNK> <UNK> " on sign .
+000141.jpg : a truck parked in a tall lot next to a building with  `` <UNK> <UNK> " on lot .
+000142.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000143.jpg : a group of cars parked in a tall lot with  `` <UNK> <UNK> " on lot .
+000144.jpg : a tall meter sitting in the middle of a street with  `` <UNK> <UNK> " on middle .
+000145.jpg : a building with a large sign and a clock with  `` <UNK> <UNK> " on sign .
+000146.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000147.jpg : a building with a clock on the front of it with  `` <UNK> <UNK> " on front .
+000148.jpg : a bicycle parked in front of a building with  `` <UNK> <UNK> " on front .
+000149.jpg : a stop sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000150.jpg : a group of cars parked in a tall lot with  `` <UNK> <UNK> " on lot .
+000151.jpg : a group of people standing in front of a building with  `` <UNK> <UNK> " on people .
+000152.jpg : a fire hydrant in the middle of a park with  `` <UNK> <UNK> " on middle .
+000153.jpg : a car parked in front of a shown with  `` <UNK> <UNK> " on front .
+000154.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000155.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000156.jpg : a woman walking down a street in front of a building with  `` <UNK> <UNK> " on front .
+000157.jpg : a man standing in front of a bus stop with  `` <UNK> <UNK> " on front .
+000158.jpg : a street corner with cars and cars on it with  `` <UNK> <UNK> " on corner .
+000159.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000160.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000161.jpg : a building with a sign that says `` <UNK> ''.
+000162.jpg : a car parked in a tall lot next to a tall meter with  `` <UNK> <UNK> " on lot .
+000163.jpg : a man walking down a street next to a stop sign with  `` <UNK> <UNK> " on sign .
+000164.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000165.jpg : a shown front of a building with a window with  `` <UNK> <UNK> " on window .
+000166.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000167.jpg : a car driving down a street next to a traffic light with  `` <UNK> <UNK> " on light .
+000168.jpg : a man walking down a street next to a building with  `` <UNK> <UNK> " on man .
+000169.jpg : a building with a bunch of signs on it with  `` <UNK> <UNK> " on signs .
+000170.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000171.jpg : a car parked in a tall lot next to a building with  `` <UNK> <UNK> " on lot .
+000172.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000173.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000174.jpg : a city street filled with lots of traffic with  `` <UNK> <UNK> " on lots .
+000175.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000176.jpg : a man walking down a street in front of a shown with  `` <UNK> <UNK> " on front .
+000177.jpg : a person walking down a street next to a traffic light with  `` <UNK> <UNK> " on person .
+000178.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000179.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000180.jpg : a truck parked in a tall lot next to a building with  `` <UNK> <UNK> " on lot .
+000181.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000182.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000183.jpg : a street scene with cars and cars on the road with  `` <UNK> <UNK> " on scene .
+000184.jpg : a person on a skateboard doing a trick with  `` <UNK> <UNK> " on person .
+000185.jpg : a fire hydrant on the side of the street with  `` <UNK> <UNK> " on side .
+000186.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000187.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000188.jpg : a group of people standing in front of a building with  `` <UNK> <UNK> " on people .
+000189.jpg : a city street filled with lots of traffic with  `` <UNK> <UNK> " on lots .
+000190.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000191.jpg : a train on the tracks in front of a building with  `` <UNK> <UNK> " on front .
+000192.jpg : a car parked in a tall lot next to a tall meter with  `` <UNK> <UNK> " on lot .
+000193.jpg : a group of people walking down a street next to buildings with  `` <UNK> <UNK> " on people .
+000194.jpg : a bike parked in front of a building with  `` <UNK> <UNK> " on front .
+000195.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000196.jpg : a bus driving down a street next to a parking building with  `` <UNK> <UNK> " on building .
+000197.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000198.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000199.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000200.jpg : a city street with cars and a traffic light with  `` <UNK> <UNK> " on light .
+000201.jpg : a building with a street sign on it with  `` <UNK> <UNK> " on sign .
+000202.jpg : a stop sign on the side of the road with  `` <UNK> <UNK> " on sign .
+000203.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000204.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000205.jpg : a car driving down a street next to a traffic light with  `` <UNK> <UNK> " on light .
+000206.jpg : a street sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000207.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000208.jpg : a woman walking down a street in front of a building with  `` <UNK> <UNK> " on front .
+000209.jpg : a building with a clock on the front of it with  `` <UNK> <UNK> " on front .
+000210.jpg : a busy street with cars and cars on it with  `` <UNK> <UNK> " on street .
+000211.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000212.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000213.jpg : a group of people standing in front of a shown with  `` <UNK> <UNK> " on people .
+000214.jpg : a double decker bus driving down a street with  `` <UNK> <UNK> " on street .
+000215.jpg : a man standing in front of a building with  `` <UNK> <UNK> " on front .
+000216.jpg : a train station with a train on the tracks with  `` <UNK> <UNK> " on tracks .
+000217.jpg : a building with a sign on the front of it with  `` <UNK> <UNK> " on sign .
+000218.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000219.jpg : a red fire hydrant sitting in the middle of a street with  `` <UNK> <UNK> " on middle .
+000220.jpg : a man standing next to a street sign with  `` <UNK> <UNK> " on sign .
+000221.jpg : a man standing in front of a building with  `` <UNK> <UNK> " on front .
+000222.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000223.jpg : a shown front of a building with a window with  `` <UNK> <UNK> " on window .
+000224.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000225.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000226.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000227.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000228.jpg : a train traveling down tracks next to a forest with  `` <UNK> <UNK> " on tracks .
+000229.jpg : a truck parked in front of a building with a sign with  `` <UNK> <UNK> " on sign .
+000230.jpg : a building with a lot of signs on it with  `` <UNK> <UNK> " on signs .
+000231.jpg : a building with a sign that says `` <UNK> ''.
+000232.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000233.jpg : a group of people standing in front of a shown with  `` <UNK> <UNK> " on people .
+000234.jpg : a street sign on the corner of a city street with  `` <UNK> <UNK> " on sign .
+000235.jpg : a street sign in front of a parking building with  `` <UNK> <UNK> " on sign .
+000236.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000237.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000238.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000239.jpg : a building with a bunch of signs on it with  `` <UNK> <UNK> " on signs .
+000240.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000241.jpg : a tall meter with a street sign on it with  `` <UNK> <UNK> " on sign .
+000242.jpg : a building with a sign that says `` <UNK> <UNK> ''.
+000243.jpg : a group of people walking down a street in front of a building with  `` <UNK> <UNK> " on people .
+000244.jpg : a city street with a traffic light and a traffic light with  `` <UNK> <UNK> " on light .
+000245.jpg : a street sign that says `` <UNK> <UNK> ''.
+000246.jpg : a man standing in front of a train with  `` <UNK> <UNK> " on front .
+000247.jpg : a street sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000248.jpg : a street scene with cars and a bus with  `` <UNK> <UNK> " on scene .
+000249.jpg : a bicycle parked in front of a building with  `` <UNK> <UNK> " on front .
+000250.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000251.jpg : a building with a clock tower in the background with  `` <UNK> <UNK> " on background .
+000252.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000253.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000254.jpg : a white truck parked in front of a building with  `` <UNK> <UNK> " on front .
+000255.jpg : a man standing in front of a large building with  `` <UNK> <UNK> " on front .
+000256.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000257.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000258.jpg : a man standing in front of a building with a clock with  `` <UNK> <UNK> " on front .
+000259.jpg : a truck parked in front of a building with  `` <UNK> <UNK> " on front .
+000260.jpg : a building that has a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000261.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000262.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000263.jpg : a black and white photo of a man in a car with  `` <UNK> <UNK> " on photo .
+000264.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000265.jpg : a building with a clock tower in the background with  `` <UNK> <UNK> " on background .
+000266.jpg : a red fire hydrant sitting in the middle of a street with  `` <UNK> <UNK> " on middle .
+000267.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000268.jpg : a man standing in front of a bus with  `` <UNK> <UNK> " on front .
+000269.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000270.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000271.jpg : a man standing in front of a building with  `` <UNK> <UNK> " on front .
+000272.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000273.jpg : a man standing in front of a train with  `` <UNK> <UNK> " on front .
+000274.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000275.jpg : a bike parked in front of a building with  `` <UNK> <UNK> " on front .
+000276.jpg : a man standing in front of a building with  `` <UNK> <UNK> " on front .
+000277.jpg : a building with a clock on the top of it with  `` <UNK> <UNK> " on top .
+000278.jpg : a man walking down a street next to a parking building with  `` <UNK> <UNK> " on man .
+000279.jpg : a group of people standing next to a train with  `` <UNK> <UNK> " on people .
+000280.jpg : a man standing in front of a shown front of a shown with  `` <UNK> <UNK> " on front .
+000281.jpg : a clock that is on the side of a building with  `` <UNK> <UNK> " on clock .
+000282.jpg : a building that has a bunch of signs on it with  `` <UNK> <UNK> " on signs .
+000283.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000284.jpg : a shown front of a building with a clock with  `` <UNK> <UNK> " on front .
+000285.jpg : a tall meter on the side of the street with  `` <UNK> <UNK> " on side .
+000286.jpg : a large building that has a clock on it with  `` <UNK> <UNK> " on clock .
+000287.jpg : a car parked in front of a building with  `` <UNK> <UNK> " on front .
+000288.jpg : a motorcycle parked in front of a building with  `` <UNK> <UNK> " on front .
+000289.jpg : a tall meter on the side of the street with  `` <UNK> <UNK> " on side .
+000290.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000291.jpg : a sign on the side of the road with  `` <UNK> <UNK> " on sign .
+000292.jpg : a person on a snowboard in the snow with  `` <UNK> <UNK> " on person .
+000293.jpg : a room that has a bunch of suitcases on it with  `` <UNK> <UNK> " on bunch .
+000294.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000295.jpg : a man standing in front of a building with a sign with  `` <UNK> <UNK> " on sign .
+000296.jpg : a bathroom with a sink and a mirror with  `` <UNK> <UNK> " on mirror .
+000297.jpg : a bus parked on the side of the road with  `` <UNK> <UNK> " on side .
+000298.jpg : a double decker bus driving down a street with  `` <UNK> <UNK> " on street .
+000299.jpg : a parking building with a clock on the top of it with  `` <UNK> <UNK> " on top .
+000300.jpg : a clock on the side of a building with  `` <UNK> <UNK> " on clock .
+000301.jpg : a street sign that is on the side of a street with  `` <UNK> <UNK> " on sign .
+000302.jpg : a street sign that says `` <UNK> <UNK> ''.
+000303.jpg : a bus driving down a street next to a building with  `` <UNK> <UNK> " on building .
+000304.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000305.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000306.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000307.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000308.jpg : a group of people standing in front of a shown with  `` <UNK> <UNK> " on people .
+000309.jpg : a group of people standing in front of a bus with  `` <UNK> <UNK> " on people .
+000310.jpg : a statue of a man sitting on a bench with  `` <UNK> <UNK> " on man .
+000311.jpg : a building with a street sign on it with  `` <UNK> <UNK> " on sign .
+000312.jpg : a street sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000313.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000314.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000315.jpg : a clock on the side of a building with  `` <UNK> <UNK> " on clock .
+000316.jpg : a shown front of a building with a window with  `` <UNK> <UNK> " on window .
+000317.jpg : a clock on the side of a building with  `` <UNK> <UNK> " on clock .
+000318.jpg : a tall meter sitting in front of a building with  `` <UNK> <UNK> " on front .
+000319.jpg : a black and white image of a train on a track with  `` <UNK> <UNK> " on image .
+000320.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000321.jpg : a group of people standing in front of a bus with  `` <UNK> <UNK> " on people .
+000322.jpg : a car parked in front of a large building with  `` <UNK> <UNK> " on front .
+000323.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000324.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000325.jpg : a group of people standing in front of a shown with  `` <UNK> <UNK> " on people .
+000326.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000327.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000328.jpg : a tall meter on the side of the road with  `` <UNK> <UNK> " on side .
+000329.jpg : a building with a bunch of bikes parked in front of it with  `` <UNK> <UNK> " on front .
+000330.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000331.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000332.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000333.jpg : a clock on the side of a building with  `` <UNK> <UNK> " on clock .
+000334.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000335.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000336.jpg : a man standing in front of a bus with  `` <UNK> <UNK> " on front .
+000337.jpg : a building with a lot of signs on it with  `` <UNK> <UNK> " on signs .
+000338.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000339.jpg : a fire hydrant on the side of the street with  `` <UNK> <UNK> " on side .
+000340.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000341.jpg : a truck parked on the side of the road with  `` <UNK> <UNK> " on side .
+000342.jpg : a street sign that says `` <UNK> <UNK> ''.
+000343.jpg : a large building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000344.jpg : a street sign in front of a building with  `` <UNK> <UNK> " on sign .
+000345.jpg : a street sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000346.jpg : a bike parked in front of a building with  `` <UNK> <UNK> " on front .
+000347.jpg : a stop sign on the corner of a city street with  `` <UNK> <UNK> " on sign .
+000348.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000349.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000350.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000351.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000352.jpg : a building with a large sign on it with  `` <UNK> <UNK> " on sign .
+000353.jpg : a large clock on the side of a building with  `` <UNK> <UNK> " on clock .
+000354.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000355.jpg : a group of people standing outside of a restaurant with  `` <UNK> <UNK> " on people .
+000356.jpg : a stop sign with a street sign on it with  `` <UNK> <UNK> " on sign .
+000357.jpg : a man standing in front of a building with a clock with  `` <UNK> <UNK> " on front .
+000358.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000359.jpg : a street sign in the middle of a street with  `` <UNK> <UNK> " on sign .
+000360.jpg : a woman walking down a street next to a building with  `` <UNK> <UNK> " on building .
+000361.jpg : a stop sign on the corner of a street with  `` <UNK> <UNK> " on sign .
+000362.jpg : a sign that is on the side of a building with  `` <UNK> <UNK> " on sign .
+000363.jpg : a group of people standing in front of a shown with  `` <UNK> <UNK> " on people .
+000364.jpg : a park bench in the middle of a park with  `` <UNK> <UNK> " on middle .
+000365.jpg : a row of bikes parked next to each other with  `` <UNK> <UNK> " on row .
+000366.jpg : a man walking down a street next to a building with  `` <UNK> <UNK> " on man .
+000367.jpg : a building with a clock on the side of it with  `` <UNK> <UNK> " on clock .
+000368.jpg : a city street filled with lots of traffic with  `` <UNK> <UNK> " on lots .
+000369.jpg : a car parked on the side of a street with  `` <UNK> <UNK> " on side .
+000370.jpg : a man sitting on a bench in front of a building with  `` <UNK> <UNK> " on front .
+000371.jpg : a building with a sign on the side of it with  `` <UNK> <UNK> " on sign .
+000372.jpg : a bicycle parked in front of a building with  `` <UNK> <UNK> " on front .
+000373.jpg : a group of people walking down a street with  `` <UNK> <UNK> " on people .
+000374.jpg : a stop sign in front of a building with  `` <UNK> <UNK> " on sign .
+000375.jpg : a bike parked in front of a shown with  `` <UNK> <UNK> " on front .
